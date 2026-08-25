@@ -31,7 +31,6 @@ public class MagnetController : MonoBehaviour
                 return false; // 磁石を置けない
             }
         }
-
         return true; // 磁石を置ける
     }
     void Update()
